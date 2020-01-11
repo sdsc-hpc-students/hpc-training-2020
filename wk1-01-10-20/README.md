@@ -1,24 +1,27 @@
 # HPC Training:  Spring 2019
-## WEEK 2: April 12, 2019
+## WEEK 1: Jan 10, 2020
 ## TOPIC:  Kickoff and Orientation
 
 ## READING AND PRESENTATIONS:
-* [HPC-Students-Kickoff-Mtg-01-18-2019.pdf](./HPC-Students-Kickoff-Mtg-01-18-2019.pdf)
-* [HPC-Training-Overview-04-12-2019.pdf](HPC-Training-Overview-04-12-2019.pdf)
+* [HPC-Training-Jan-10-2020.pdf](./HPC-Students-Kickoff-Mtg-01-18-2019.pdf)
+* [HPC-Architecture-2017.pdf](./HPC-Architecture-2017.pdf)
 
-## TASKS:
-1. Create your XSEDE portal account (needed to create the COMET cluster account):
-https://portal.xsede.org/web/xup/my-xsede#/guest
+## WEEK 1 TASKS:
+1. Register for the HPC Training:
+https://www.eiseverywhere.com/ereg/newreg.php?eventid=506193
 
-2. Email the portalID to Mary  - this will activate the Comet account creation 
-           process, which might take 24 hours.
+2. Setup XSEDE Portal Account:
+* [http://portal.xsede.org](http://portal.xsede.org)
+* Get portalID
 
-3. After your account has been created on comte, log onto Comet and some of the commands in these tutorials:
+3. Confirm Enrollment (Google Form):
+* [http://bit.ly/hpc-enrollment-2020](http://bit.ly/hpc-enrollment-2020)
 
-     - https://github.com/sdsc-training/webinars/tree/master/getting_started
-     - https://github.com/sdsc-training/webinars/tree/master/basic_linux_skills
+4. After your account has been created on Comet, log on and run some of the commands in these tutorials:
+* https://github.com/sdsc-training/webinars/tree/master/getting_started
+* https://github.com/sdsc-training/webinars/tree/master/basic_linux_skills
 
-4. Check out passwordless SSH:   
+5. Make it easier to connect to Comet using passwordless SSH:   
 
      - https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps
 

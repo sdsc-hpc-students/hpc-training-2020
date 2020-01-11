@@ -10,16 +10,21 @@
 1. Register for the HPC Training:
 https://www.eiseverywhere.com/ereg/newreg.php?eventid=506193
 
+
 2. Setup XSEDE Portal Account:
 * [http://portal.xsede.org](http://portal.xsede.org)
 * Get portalID
 
+
 3. Confirm Enrollment (Google Form):
 * [http://bit.ly/hpc-enrollment-2020](http://bit.ly/hpc-enrollment-2020)
 
+
 4. After your account has been created on Comet, log on and run some of the commands in these tutorials:
+* [hpc-training-2020/wk1-01-10-20/basic_tutorials/basic_linux_skills](./basic_tutorials/basic_linux_skills)
 * https://github.com/sdsc-training/webinars/tree/master/getting_started
 * https://github.com/sdsc-training/webinars/tree/master/basic_linux_skills
+
 
 5. Make it easier to connect to Comet using passwordless SSH:   
 

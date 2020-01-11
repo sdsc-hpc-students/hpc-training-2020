@@ -20,12 +20,11 @@ https://www.eiseverywhere.com/ereg/newreg.php?eventid=506193
 * [http://bit.ly/hpc-enrollment-2020](http://bit.ly/hpc-enrollment-2020)
 
 
-4. After your account has been created on Comet, log on and run some of the commands in these tutorials:
-* [hpc-training-2020/wk1-01-10-20/basic_tutorials/basic_linux_skills](./basic_tutorials/basic_linux_skills)
+4. After your account has been created on Comet, log on and run some of the commands in these basic self-guided tutorials:
+* [basic_tutorials/basic_linux_skills](./basic_tutorials/basic_linux_skills)
 * [basic_tutorials/getting_started/](./basic_tutorials/getting_started/)
 
 
 5. Make it easier to connect to Comet using passwordless SSH:   
-
-     - https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps
+* https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps
 

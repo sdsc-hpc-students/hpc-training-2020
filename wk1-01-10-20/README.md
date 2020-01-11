@@ -28,3 +28,6 @@ https://www.eiseverywhere.com/ereg/newreg.php?eventid=506193
 5. Make it easier to connect to Comet using passwordless SSH:   
 * https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps
 
+
+6. Try running a jupyter notebook on Comet:
+* [basic_tutorials/how-to-run-notebooks-on-comet.md](./basic_tutorials/how-to-run-notebooks-on-comet.md)

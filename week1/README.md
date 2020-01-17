@@ -25,14 +25,10 @@ https://www.eiseverywhere.com/ereg/newreg.php?eventid=506193
 * You will be given a link to secure webpage where you will set your account password
 
 
-5. After your account has been created on Comet and you have set your passwork, log on and run some of the commands in these basic self-guided tutorials:
+5. After your account has been created on Comet and you have set your passwork, log on and run a few of the commands in these basic self-guided tutorials (to make sure the account is working):
 * [basic_tutorials/basic_linux_skills](./basic_tutorials/basic_linux_skills)
 * [basic_tutorials/getting_started/](./basic_tutorials/getting_started/)
 
 
 6. Make it easier to connect to Comet using passwordless SSH:   
 * https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps
-
-
-7. Try running a jupyter notebook on Comet:
-* [basic_tutorials/how-to-run-notebooks-on-comet.md](./basic_tutorials/how-to-run-notebooks-on-comet.md)

@@ -1,6 +1,6 @@
 # SDSC HPC User Training:  2020
 ## WEEK 1: Jan 10, 2020
-## TOPIC:  Cometi 101: Basic User Training
+## TOPIC:  Comet 101: Basic User Training
 
 ### READING AND PRESENTATIONS:
 * [HPC-Training-Jan-10-2020.pdf](./HPC-Students-Kickoff-Mtg-01-18-2019.pdf)

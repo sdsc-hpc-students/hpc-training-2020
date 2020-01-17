@@ -3,7 +3,7 @@
 ## TOPIC:  Comet 101: Basic User Training
 
 ### READING AND PRESENTATIONS:
-* [Comet 101](./comet101.pdf)
+* [Comet 101](./Running-Jobs-on-Comet-04-11-2019.pdf)
 * 
 
 ### WEEK 2 TASKS:

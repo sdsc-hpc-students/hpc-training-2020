@@ -1,6 +1,6 @@
 # SDSC HPC User Training
  
-## 1. Using Jupyter Notebooks (by Mary Thomas): 
+## 1. Running Jupyter Notebooks On Comet (by Mary Thomas): 
 Learn how to run/edit a jupyter notebook on comet using Python notebooks 
 
 * Log onto comet.sdsc.edu  

@@ -1,4 +1,4 @@
-# HPC Training:  Spring 2019
+# HPC User Training 2020
 ### WEEK 1: Jan 10, 2020
 ### TOPIC:  Kickoff and Orientation
 
@@ -26,9 +26,9 @@ https://www.eiseverywhere.com/ereg/newreg.php?eventid=506193
 
 
 5. After your account has been created on Comet and you have set your passwork, log on and run a few of the commands in these basic self-guided tutorials (to make sure the account is working):
-* [basic_tutorials/basic_linux_skills](./basic_tutorials/basic_linux_skills)
-* [basic_tutorials/getting_started/](./basic_tutorials/getting_started/)
+* [basic_tutorials/basic_linux_skills](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/basic_tutorials/basic_linux_skills)
+* [basic_tutorials/getting_started/](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/basic_tutorials/getting_started)
 
 
-6. Make it easier to connect to Comet using passwordless SSH:   
+6. Suggestion:  Make it easier to connect to Comet using passwordless SSH:   
 * https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps

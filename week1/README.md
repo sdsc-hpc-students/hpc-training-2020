@@ -19,7 +19,7 @@ https://www.eiseverywhere.com/ereg/newreg.php?eventid=506193
 * [http://bit.ly/hpc-enrollment-2020](http://bit.ly/hpc-enrollment-2020)
 * Be sure to enter your XSEDE PortalID
 
-4. Once you hae confirmed your enrollment and given us you XSEDE PortalID:
+4. Once you have confirmed your enrollment and given us you XSEDE PortalID:
 * We will add you to the HPC Training Education Allocation.
 * In a few days, you will recieve notification that your Comet account is ready for logging on with instructions on how to set your password.
 * You will be given a link to secure webpage where you will set your account password

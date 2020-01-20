@@ -4,7 +4,8 @@
 
 ### READING AND PRESENTATIONS:
 * [Comet 101](./Running-Jobs-on-Comet-04-11-2019.pdf)
-* 
+* Link to online interactive tutorial: 
+[https://www.sdsc.edu/education_and_training/training/201901_introduction_to_running_jobs_on_comet.html](https://www.sdsc.edu/education_and_training/training/201901_introduction_to_running_jobs_on_comet.html) 
 
 ### WEEK 2 TASKS:
 1. Check that you have registered for the HPC Training and have a working Comet account:

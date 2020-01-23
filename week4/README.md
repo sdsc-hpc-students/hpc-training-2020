@@ -1,9 +1,9 @@
-# HPC Training:  Spring 2020
+# SDSC HPC User Training:  Spring 2020
 ## WEEK 4: 01/31/2020
 
 ## TOPICS:
 This week we will have two GPU related presentations:  
-### NVIDIA RAPIDS Toolkit
+### Topic #1:  Using the NVIDIA Rapids Toolkit on Comet
 **Presented by:**  Marty Kandes	
 [https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week4](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week4)
 
@@ -12,7 +12,7 @@ RAPIDS is NVIDIA's new Python-based framework for accelerating end-to-end data s
 
 In this webinar we will show how to use RAPIDS to accelerate your data science applications utilizing libraries like cuDF (GPU-enabled  Pandas-like dataframes) and cuML (GPU-accelerated machine learning algorithms). We will demonstrate how to use Jupyter Notebooks on Comet to accelerate Data Science workflows with RAPIDS using interactive computing methods. In particular, if you use pandas and/or scikit-learn extensively, you'll definitely want to attend this webinar.
 
-### GPU accelerated computing with CUDA Python
+### Topic #2:  GPU accelerated computing with CUDA Python
 **Presented by: Abe Stern, NVIDIA**
 [https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week4](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week4)
 

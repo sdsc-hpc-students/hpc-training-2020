@@ -25,10 +25,10 @@ See the README.md file in the tarfile directory and
 follow instructions on "How to use Comet's GPU nodes"
 
 
-# Obtain interactive shared GPU node on SDSC Comet (3h allocation)
+# Obtain interactive shared GPU node on SDSC Comet 
 `getgpu`
 
-This will launch the command
+The command below will launch the command
 
 ```
 srun -t 00:30:00 --partition=gpu-shared --nodes=1 --ntasks-per-node=7 \

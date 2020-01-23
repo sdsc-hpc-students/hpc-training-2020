@@ -4,6 +4,10 @@
 ## TOPIC: Profiling, monitoring, and optimization	
 **Presented By:**  [Bob Sinkovits, SDSC](https://hpc-students.sdsc.edu/instr_bios/robert_sinkovits.html)
 
+** Description**
+Deep learning has seen tremendous growth and success in the past few years.  Deep learning techniques have achieved state-of-the-art performance across many domains, including image classification, speech recognition, and biomedical applications. This webinar provides an introduction to deep learning concepts and approaches.  Topics covered include relevant neural network background, deep network layers, transfer learning, and deep learning architectures.  A demo on transfer learning using the Keras deep learning library will also be shown.
+
+
 ## READING AND PRESENTATIONS:
 
 Source code and Instructions:

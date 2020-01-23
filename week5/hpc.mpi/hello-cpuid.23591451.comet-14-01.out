@@ -1,0 +1,27 @@
+IBRUN: Command is ./hello-cpuid
+IBRUN: Command is /oasis/scratch/comet/mthomas/temp_project/pardev/hello/hello-cpuid
+IBRUN: no hostfile mod needed
+IBRUN: Nodefile is /tmp/IFqMSPtQwd
+
+IBRUN: Adding MV2_CPU_MAPPING=1-1:2-2:3-3:4-4:5-5:6-6:7-7:8-8:9-9:10-10:11-11:12-12 to the environment
+IBRUN: Adding MV2_USE_OLD_BCAST=1 to the environment
+IBRUN: Adding MV2_USE_HUGEPAGES=0 to the environment
+IBRUN: Adding MV2_HOMOGENEOUS_CLUSTER=0 to the environment
+IBRUN: Adding MV2_ENABLE_AFFINITY=1 to the environment
+IBRUN: Adding MV2_DEFAULT_TIME_OUT=23 to the environment
+IBRUN: Adding MV2_USE_UD_HYBRID=0 to the environment
+IBRUN: Added 7 new environment variables to the execution environment
+IBRUN: Command string is [mpirun_rsh -np 12 -hostfile /tmp/IFqMSPtQwd -export-all /oasis/scratch/comet/mthomas/temp_project/pardev/hello/hello-cpuid]
+hello, world from node: comet-14-01.sdsc.edu, core: 13
+hello, world from node: comet-14-01.sdsc.edu, core: 14
+hello, world from node: comet-14-01.sdsc.edu, core: 7
+hello, world from node: comet-14-01.sdsc.edu, core: 12
+hello, world from node: comet-14-01.sdsc.edu, core: 6
+hello, world from node: comet-14-01.sdsc.edu, core: 10
+hello, world from node: comet-14-01.sdsc.edu, core: 0
+hello, world from node: comet-14-01.sdsc.edu, core: 4
+hello, world from node: comet-14-01.sdsc.edu, core: 19
+hello, world from node: comet-14-01.sdsc.edu, core: 2
+hello, world from node: comet-14-01.sdsc.edu, core: 1
+hello, world from node: comet-14-01.sdsc.edu, core: 5
+IBRUN: Job ended with value 0

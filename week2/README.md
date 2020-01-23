@@ -1,6 +1,8 @@
 # SDSC HPC User Training:  2020
 ## WEEK 2: Jan 17, 2020
+
 ## TOPIC:  Comet 101: Basic User Training
+**Presented By:** [Mary Thomas, SDSC](https://hpc-students.sdsc.edu/instr_bios/mary_thomas.html)
 
 ### READING AND PRESENTATIONS:
 * [Comet 101](./Running-Jobs-on-Comet-04-11-2019.pdf)

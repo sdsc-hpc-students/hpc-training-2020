@@ -1,4 +1,4 @@
-# HPC Training:  Winter, 2020
+# SDSC HPC User Training:  Winter, 2020
 Repository for HPC Training Materials (lectures, code, etc.)
 
 # Overview

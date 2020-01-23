@@ -1,10 +1,10 @@
-# HPC Training:  Spring 2020
+# SDSC HPC User Training:  Spring 2020
 ## WEEK 4: 01/31/2020
 
 ## TOPIC:  GPU accelerated computing with CUDA Python	
-* PRESENTED BY:  Abe Stern, NVIDIA
+**Presented By:**  Abe Stern, NVIDIA
 
-### READING AND PRESENTATIONS:
+### Related Reading and Presentations:
 
 Source code and Instructions:
 

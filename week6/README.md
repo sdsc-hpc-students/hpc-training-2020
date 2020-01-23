@@ -1,11 +1,11 @@
 # SDSC HPC USER Training:  Spring 2020
 ## WEEK 6: 02/07/2020
 
-## TOPIC: Profiling, monitoring, and optimization	
+## TOPIC: Understanding Performance and Obtaining Hardware Information
 **Presented By:**  [Bob Sinkovits, SDSC](https://hpc-students.sdsc.edu/instr_bios/robert_sinkovits.html)
 
 ** Description**
-Deep learning has seen tremendous growth and success in the past few years.  Deep learning techniques have achieved state-of-the-art performance across many domains, including image classification, speech recognition, and biomedical applications. This webinar provides an introduction to deep learning concepts and approaches.  Topics covered include relevant neural network background, deep network layers, transfer learning, and deep learning architectures.  A demo on transfer learning using the Keras deep learning library will also be shown.
+In this tutorial, we will describe how to obtain hardware and system information such as CPU specifications, memory quantity, cache configuration, mounted file systems and their usage, peripheral storage devices and GPU properties. This information is useful for anyone who is interested in how hardware specs influence performance or who needs to report benchmarking data. We then cover the use of top for monitoring systems usage and gprof for basic code profiling. We conclude with a description of the memory hierarchy (registers, cache, memory, external storage) and show how an understanding of cache can be used to write more efficient code.
 
 
 ## READING AND PRESENTATIONS:

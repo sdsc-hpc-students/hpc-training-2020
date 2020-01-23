@@ -1,8 +1,6 @@
 # HPC Training:  Spring 2020
 ## WEEK 3: 01/23/2020
 
-### NOTE: These notes are from the 2019 course and will be updated.
-
 ## TOPIC:  CUDA/GPU Computing
 ## PRESENTED BY: Andreas Goetz (agoetz  at  sdsc.edu)
 

@@ -1,4 +1,4 @@
-# HPC User Training 2020
+# SDSC HPC User Training 2020
 ### WEEK 1: Jan 10, 2020
 ### TOPIC:  Kickoff and Orientation
 

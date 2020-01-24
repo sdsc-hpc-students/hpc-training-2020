@@ -6,10 +6,10 @@
 
 ### READING AND PRESENTATIONS:
 
-Source code and Instructions:
+Source code and Lecture Slides:
 
 * [gpu-code-examples.tar.gz](gpu-code-examples.tar.gz)
-* [sdsc-scc-gpu-computing-2019-05-03.pdf](sdsc-scc-gpu-computing-2019-05-03.pdf)
+* [sdsc-scc-gpu-computing-2020-01-24.pdf](sdsc-scc-gpu-computing-2020-01-24.pdf)
 
 
 ## WEEK 3 TASKS:

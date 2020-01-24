@@ -47,6 +47,11 @@ module load cuda
 module load pgi
 ```
 
+If you get a license error when executing the PGI compilers, execute the following:
+```
+export LM_LICENSE_FILE=40200@elprado.sdsc.edu:$LM_LICENSE_FILE
+```
+
 
 ### TASKS 2 and 3 begin in the section called:
 *"Simple code samples accompanying slides"*

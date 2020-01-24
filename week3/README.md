@@ -25,16 +25,16 @@ follow instructions on "How to use Comet's GPU nodes"
 
 
 # Obtain interactive shared GPU node on SDSC Comet 
-Make script `getgpu` executable and run it:
-`chmod u+x getgpu`
-`./getgpu`
+Source `getgpu.rc`, which defines an alias `getgpu` that you can use to obtain an interactive GPU node:
+`source getgpu.rc`
+`getgpu`
 
-The script `getgpu` contains the SLURM launch command below to obtain an interactive node with access to 1 K80 GPU on the shared GPU nodes for 3h. You can also execute this command on the command line:
+The script `getgpu.rc` defines the SLURM launch command below to obtain an interactive node with access to 1 K80 GPU on the shared GPU nodes for 3h. You can also execute this command directly on the command line:
 
 ```
 srun --partition=gpu-shared --reservation=gputraining \
      --nodes=1 --ntasks-per-node=6 --gres=gpu:k80:1 \
-	 -t 03:00:00 --pty --wait=0 /bin/bash
+     -t 03:00:00 --pty --wait=0 /bin/bash
 ```
 
 It may take some time to get the interactive node.

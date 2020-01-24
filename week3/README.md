@@ -6,19 +6,19 @@
 
 ### READING AND PRESENTATIONS:
 
-Source code and Instructions:
+Lecture slides:
 
-* [gpu-code-examples.tar.gz](gpu-code-examples.tar.gz)
 * [sdsc-scc-gpu-computing-2019-05-03.pdf](sdsc-scc-gpu-computing-2019-05-03.pdf)
+
+Example source code accompanying the lecture slides with instructions are in directory gpu-code-examples.
 
 
 ## WEEK 3 TASKS:
 ### TASK 1:  Using GPU nodes  
-    Download and `untar` the gpu code file; 
+    Clone this repository; 
     `cd` into the `gpu-code-examples` directory
 
 ```
-% tar xvf gpu-code-examples.tar.gz
 % cd gpu-code-examples
 ```
 See the README.md file in the tarfile directory and
@@ -26,16 +26,28 @@ follow instructions on "How to use Comet's GPU nodes"
 
 
 # Obtain interactive shared GPU node on SDSC Comet 
-`getgpu`
+Make script `getgpu` executable and run it:
+`chmod u+x getgpu`
+`./getgpu`
 
-The command below will launch the command
+The script `getgpu` contains the SLURM launch command below to obtain an interactive node with access to 1 K80 GPU on the shared GPU nodes for 3h. You can also execute this command on the command line:
 
 ```
-srun -t 00:30:00 --partition=gpu-shared --nodes=1 --ntasks-per-node=7 \
-     --gres=gpu:p100:1 --reservation=sccgpures --pty --wait=0 /bin/bash
+srun --partition=gpu-shared --reservation=gputraining \
+     --nodes=1 --ntasks-per-node=6 --gres=gpu:k80:1 \
+	 -t 03:00:00 --pty --wait=0 /bin/bash
 ```
 
 It may take some time to get the interactive node.
+
+Load the CUDA and PGI compiler modules
+```
+module purge
+module load gnutools
+module load cuda
+module load pgi
+```
+
 
 ### TASKS 2 and 3 begin in the section called:
 *"Simple code samples accompanying slides"*

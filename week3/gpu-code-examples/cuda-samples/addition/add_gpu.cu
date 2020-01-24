@@ -1,5 +1,5 @@
 // SDSC SCC Training - GPU Computing and Programming
-// May 3, 2019
+// Jan 24, 2020
 // Andreas Goetz (agoetz@sdsc.edu)
 
 // CUDA program to add two integer numbers on the GPU

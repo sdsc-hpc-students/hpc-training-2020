@@ -1,9 +1,9 @@
 Content
 =======
-This directory contains the slides and exercises for the SCC 2019 
+This directory contains the slides and exercises for the SCC 2020
 training in GPU computing and programming.
 
-Lecture May 3, 2019
+Lecture January 24, 2020
 
 Andreas Goetz, SDSC (agoetz@sdsc.edu)
 
@@ -12,13 +12,14 @@ How to use Comet's GPU nodes
 ============================
 
 # Obtain interactive shared GPU node on SDSC Comet (3h allocation)
-`getgpu` 
+`../getgpu` 
 
 This will launch the command
 
 ```
-srun -t 00:30:00 --partition=gpu-shared --nodes=1 --ntasks-per-node=7 \
-     --gres=gpu:p100:1 --reservation=sccgpures --pty --wait=0 /bin/bash
+srun --partition=gpu-shared --reservation=gputraining \
+     --nodes=1 --ntasks-per-node=6 --gres=gpu:k80:1 \
+	 -t 03:00:00 --pty --wait=0 /bin/bash
 ```
 
 

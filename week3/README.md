@@ -1,5 +1,5 @@
 # SDSC HPC User Training:  Spring 2020
-**WEEK 3:** 01/23/2020
+**WEEK 3:** 01/24/2020
 
 ## TOPIC:  CUDA/GPU Computing
 **Presented By:** [Andreas Goetz, SDSC](https://hpc-students.sdsc.edu/instr_bios/andreas_goetz.html) (agoetz  at  sdsc.edu)

@@ -7,8 +7,7 @@
 ### READING AND PRESENTATIONS:
 
 Lecture slides:
-
-* [sdsc-scc-gpu-computing-2019-05-03.pdf](sdsc-scc-gpu-computing-2019-05-03.pdf)
+* [sdsc-scc-gpu-computing-2020-01-24.pdf](sdsc-scc-gpu-computing-2020-01-24.pdf)
 
 Example source code accompanying the lecture slides with instructions are in directory gpu-code-examples.
 

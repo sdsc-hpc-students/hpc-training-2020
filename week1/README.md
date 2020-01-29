@@ -1,4 +1,6 @@
 # SDSC HPC User Training 2020
+* Updated 1/28/20 by Mary Thomas
+
 ### WEEK 1: Jan 10, 2020
 
 ## TOPIC:  Kickoff and Orientation
@@ -27,8 +29,8 @@ https://www.eiseverywhere.com/ereg/newreg.php?eventid=506193
 * Note: your Comet account password will be the same password that you used when creating your XSEDE Portal account.
 
 5. After your account has been created on Comet and you have set your passwork, log on and run a few of the commands in these basic self-guided tutorials (to make sure the account is working):
-* [basic_tutorials/basic_linux_skills](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/basic_tutorials/basic_linux_skills)
-* [basic_tutorials/getting_started/](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/basic_tutorials/getting_started)
+* [Testing your basic_linux skills:](https://github.com/sdsc-hpc-training/basic_skills/tree/master/basic_linux_skills)
+* [Connecting to SDSC HPC systems/](https://github.com/sdsc-hpc-training/basic_skills/tree/master/connecting-to-hpc-systems)
 
 
 6. Suggestion:  Make it easier to connect to Comet using passwordless SSH:   

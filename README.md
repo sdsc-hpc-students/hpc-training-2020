@@ -4,7 +4,7 @@ Repository for HPC Training Materials (lectures, code, etc.)
 ### 2020 HPC Training Schedule:
 Current Schedule (Jan 31, 2020):
 
-<img src="./images/hpc-user-training-current-schedule.png" alt="HPC Training 2020 Schedule" width="500px" />
+[<img src="./images/hpc-user-training-current-schedule.png" alt="HPC Training 2020 Schedule" width="500px" />](https://hpc-students.sdsc.edu/hpc-training-sched-2020.html)
 
 Click here for latest schedule:
 [https://hpc-students.sdsc.edu/hpc-training-sched-2020.html](https://hpc-students.sdsc.edu/hpc-training-sched-2020.html)

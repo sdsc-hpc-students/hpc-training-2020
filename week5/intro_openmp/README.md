@@ -14,6 +14,11 @@
 
 ## TASKS:
 1. Compile and execute the 'hello, world' examples source code on your laptop.
+
 2. Compile and execute the 'hello, shared memory world' example source code on your laptop.
+
 3. Compile and execute the 'hello, shared memory world' example source code on Comet and run it as a batch job. 
-4. Write a small program to perform a matrix-vector operation and then parallelize the code with OpenMP. Solve the exercise invloving the Hilbert matrix described at the end of the presentation slides.
+
+4. Executing Hybrid Codes:  Write a small program to perform a matrix-vector operation and then parallelize the code with OpenMP. Solve the exercise invloving the Hilbert matrix described at the end of the presentation slides.
+
+

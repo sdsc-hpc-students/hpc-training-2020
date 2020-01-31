@@ -21,4 +21,7 @@ Check out our basic skill-building and preparation tutorials needed for this cou
 
 
 
-## To learn more, see [https://hpc-students.sdsc.edu](https://hpc-students.sdsc.edu)
+## To learn more, see 
+* [SDSC HPC Training](https://www.sdsc.edu/education_and_training/training/index.html)
+* [SDSC HPC Students](https://www.sdsc.edu/education_and_training/hpc_students.html)
+* [https://hpc-students.sdsc.edu](https://hpc-students.sdsc.edu)

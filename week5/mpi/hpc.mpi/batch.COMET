@@ -1,0 +1,22 @@
+#!/bin/bash
+#SBATCH --job-name="ucms"
+#SBATCH --output="ucms.out"
+#SBATCH --partition=shared
+#SBATCH --nodes=1			# Number of nodes
+#SBATCH --ntasks=1			# Number of MPI ranks
+#SBATCH --cpus-per-task=1		# Number of cores per MPI rank
+#SBATCH --export=ALL
+#SBATCH -t 00:05:00
+###SBATCH -A sdu111
+#This job runs with 1 nodes, 4 cores per node for a total of 4 cores.
+#ibrun in verbose mode will give binding detail
+
+export OMPI_MCA_hwloc_base_binding_policy=none
+
+echo "Running program on $SLURM_JOB_NUM_NODES nodes with $SLURM_NTASKS tasks/ranks, each with $SLURM_CPUS_PER_TASK cores."
+#echo "JobID is $SLURM_JOBID "
+
+ibrun -v -n 1 ./gcmMR tc=TestCases/Monterey/MR_2001x6x81/ jid=gcmMR
+#ibrun -v -n 4 ./gcmLEP tc=TestCases/LockRelease/LE_401x6x101/
+#ibrun -v -n 1 --map-by core --bind-to core  ./ucmsLEP  jid=ucmsLEP.sgsoffn
+

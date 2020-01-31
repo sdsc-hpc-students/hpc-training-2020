@@ -33,4 +33,12 @@ instructions here
 ```
 
 
+* Presentation (based on Phys 244 lecture): [Code Optimization](https://github.com/sdsc-hpc-students/hpc-training-spring2019/blob/master/wk9-05-31-19/Sinkovits_Code_optimization.pdf)
+
+* Additional material on gprof, top, timers and getting machine information: [SI'18 Software Performance](https://github.com/sdsc/sdsc-summer-institute-2018/tree/master/6_software_performance)
+
+## TASKS:
+TASK 1:
+* log onto comet, and cd into the week 9 homework directory
+* Follow the instructions for using some basic profiling commands found here: [commands](./commands.txt)]
  

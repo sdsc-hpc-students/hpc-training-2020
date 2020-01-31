@@ -10,7 +10,7 @@ This year the sessions will be held on Fridays from 1:00pm to 3:00pm in the SDSC
 
 |WEEK|DATE|TITLE|PRESENTER|
 |:----:|----------|-------------------|----------------|
-|1|Fri, 01/10/20|Program Orientation, history, plan ; Registration process & accounts; HPC overview & Comet Architecture|Mary Thomas|
+|1|Fri, 01/10/20|[Program Orientation, history, plan ; Registration process & accounts; HPC overview & Comet Architecture](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week1)|Mary Thomas|
 |2|Fri, 01/17/20|Comet 101; Parallel Queues & batch scripting;|Mary Thomas|
 |3|Fri, 01/24/20|GPU Architectures, CUDA|Andy Goetz|
 |4|Fri, 01/31/20|NVIDIA RAPIDS Toolkit|Marty Kandes|

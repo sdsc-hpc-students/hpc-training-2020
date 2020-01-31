@@ -1,9 +1,11 @@
-# SDSC HPC User Training:  Winter, 2020
+# SDSC HPC User Training Material:  Winter, 2020
 Repository for HPC Training Materials (lectures, code, etc.)
 
 ### 2020 HPC Training Schedule:
-Current Schedule (Jan 31, 2020)
-<img src="./images/hpc-user-training-current-schedule.png" alt="HPC Training 2020 Schedule" width="500px" />
+Current Schedule (Jan 31, 2020):
+
+[<img src="./images/hpc-user-training-current-schedule.png" alt="HPC Training 2020 Schedule" width="700px" />](https://hpc-students.sdsc.edu/hpc-training-sched-2020.html)
+
 Click here for latest schedule:
 [https://hpc-students.sdsc.edu/hpc-training-sched-2020.html](https://hpc-students.sdsc.edu/hpc-training-sched-2020.html)
 
@@ -27,4 +29,7 @@ Check out our basic skill-building and preparation tutorials needed for this cou
 
 
 
-## To learn more, see [https://hpc-students.sdsc.edu](https://hpc-students.sdsc.edu)
+## To learn more, see 
+* [SDSC HPC Training](https://www.sdsc.edu/education_and_training/training/index.html)
+* [SDSC HPC Students](https://www.sdsc.edu/education_and_training/hpc_students.html)
+* [https://hpc-students.sdsc.edu](https://hpc-students.sdsc.edu)

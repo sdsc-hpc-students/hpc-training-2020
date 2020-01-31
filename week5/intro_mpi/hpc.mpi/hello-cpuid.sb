@@ -1,0 +1,17 @@
+#!/bin/bash
+#SBATCH --job-name="hello-cpuid"
+#SBATCH --output="hello-cpuid.%j.%N.out"
+#SBATCH --partition=debug
+####SBATCH --partition=compute
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=12
+#SBATCH --export=ALL
+#SBATCH -t 00:05:00
+
+#This job runs with 2 nodes, 24 cores per node for a total of 48 cores.
+#ibrun in verbose mode will give binding detail
+
+#echo "JobID is $SLURM_JOBID "
+
+ibrun -v ./hello-cpuid
+

@@ -24,8 +24,3 @@ Note: These are the same projects that you were asked to do for the OpenMP topic
 3. Compile and execute the 'hello-mpi.c and hello-cpuid.c' example source codes on Comet and run it as a batch job. 
 
 
-### TASK 3:  Executing Hybrid Codes 
-*  NOTE: TO BE UPDATED for 2020 class: 
-* Write a small program to perform a matrix-vector operation and then parallelize the code with OpenMP. Solve the exercise invloving the Hilbert matrix described at the end of the presentation slides.
-
-

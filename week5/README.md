@@ -1,26 +1,19 @@
 # SDSC HPC USER Training:  Spring 2020
 ## WEEK 5: 02/07/2020
 
-## TOPIC: Intro to Parallel Computing: OpenMP/Threads/MPI 
-* PRESENTED BY:  [Mary Thomas, SDSC](https://hpc-students.sdsc.edu/instr_bios/mary_thomas.html)
+## TOPIC: Intro to Parallel Computing# SDSC HPC User Training:  Spring 2020
 
-## READING AND PRESENTATIONS:
+### Topic #1:  Introduction to OpenMP/Threads	Marty Kandes
+**Presented By:**  [Marty Kandes, SDSC](https://hpc-students.sdsc.edu/instr_bios/martin_kandes.html)
 
-Source code and Instructions:
-Tarfile: [hpc.mpi.tar](hpc.mpi.tar)
-Source: [hpc.mpi](hpc.mpi)
+URL: https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week5/intro_openmp
 
-* [TBD](TBD)
+**Description**
 
-
-## WEEK 5 TASKS:
-### TASK 1:  Compiling OpenMP Code
-
-### TASK 2:  Compiling MPI Code
-Note: These are the same projects that you were asked to do for the OpenMP topic.
-
-1. Compile and execute the 'hello-mpi.c and hello-cpuid.c' examples source codes on your laptop. (if MPI runs on your laptop)
-2. Compile and execute the 'hello-mpi.c and hello-cpuid.c' example source codes on your laptop (if MPI runs on your laptop)
-3. Compile and execute the 'hello-mpi.c and hello-cpuid.c' example source codes on Comet and run it as a batch job. 
+### Topic #2:  Introduction to MPI	
+**Presented By:**  [Mahi Tatineni, SDSC](https://hpc-students.sdsc.edu/instr_bios/mahidhar_tatineni.html)
 
 
+URL: https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week5/intro_mpi
+
+**Description**

@@ -1,4 +1,6 @@
 ## Spring schedule template
+|WEED|DATE|TITLE|PRESENTER|
+|----|----|----|----|
 |1|Fri, 01/10/20|Program Orientation, history, plan ; Registration process & accounts; HPC overview & Comet Architecture|Mary Thomas|
 |2|Fri, 01/17/20|Comet 101; Parallel Queues & batch scripting;|Mary Thomas|
 |3|Fri, 01/24/20|GPU Architectures, CUDA|Andy Goetz|

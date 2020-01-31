@@ -25,3 +25,8 @@ compute the result.
 
 * [distance_matrix.ipynb](./distance_matrix.ipynb)
 * [distance_matrix_solution](./distance_matrix_solution.ipynb)
+
+### TASK 3
+
+* [law_of_cosines.ipynb](./law_of_cosines.ipynb)
+* [law_of_cosines_solution.ipynb](./law_of_cosines_solution.ipynb)

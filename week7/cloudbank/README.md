@@ -3,7 +3,7 @@
 ## WEEK 8: 02/21/2020
 
 ## TOPIC: Using the CloudBank Services
-**Presented By:** Rob Fatland (
+**Presented By:** [Rob Fatland](https://escience.washington.edu/people/rob-fatland/)
 
 
 CloudBank (https://www.cloudbank.org/) provides information, education, training, and allocations for public clouds 

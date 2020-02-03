@@ -2,7 +2,7 @@
 ## WEEK 5: 02/07/2020
 
 ## TOPIC: Intro to Parallel Computing: Message Passing Interface (MPI) 
-* PRESENTED BY:  [Mahi Tatineni, SDSC](https://hpc-students.sdsc.edu/instr_bios/mahidhar_tatineni.html)
+**PRESENTED BY:**  [Mahi Tatineni, SDSC](https://hpc-students.sdsc.edu/instr_bios/mahidhar_tatineni.html) (mahidhar at sdsc.edu)
 
 ## READING AND PRESENTATIONS:
 

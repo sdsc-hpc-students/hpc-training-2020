@@ -1,4 +1,4 @@
-#SDSC HPC USER Training: Spring 2020
+# SDSC HPC USER Training: Spring 2020
 
 ## WEEK 8: 02/21/2020
 

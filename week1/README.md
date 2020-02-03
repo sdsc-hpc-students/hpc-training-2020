@@ -4,9 +4,7 @@
 ### WEEK 1: Jan 10, 2020
 
 ## TOPIC:  Kickoff and Orientation
-**Presented By:** 
-* [Mary Thomas, SDSC](https://hpc-students.sdsc.edu/instr_bios/mary_thomas.html)   
-* Contact: mthomas@sdsc.edu
+**Presented By:** [Mary Thomas, SDSC](https://hpc-students.sdsc.edu/instr_bios/mary_thomas.html) (mthomas at sdsc.edu)
 
 ## READING AND PRESENTATIONS:
 * [HPC-Training-Jan-10-2020.pdf](./HPC-Students-Kickoff-Mtg-01-18-2019.pdf)

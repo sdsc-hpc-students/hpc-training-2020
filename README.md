@@ -18,9 +18,9 @@ This year the sessions will be held on Fridays from 1:00pm to 3:00pm in the SDSC
 |5|Fri, 02/7/20|[CPU Computing: Introduction to OpenMP/Threads](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week5/intro_openmp)|Marty Kandes|
 |||[Introduction to MPI](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week5/intro_mpi)|Mahi Tatineni|
 |6|Fri, 02/14/20|[Profiling, monitoring, and optimization](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week6)|Bob Sinkovits|
-|7|Fri, 02/21/20|[Using Cloud Bank](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week7)|Rob Fatland|
-|||[Cloud computing Using AWS](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week7)|Rob Fatland|
-|||[Cloud computing (OSG-Tentative)](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week7)|TBD|
+|7|Fri, 02/21/20|[Using Cloud Bank](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week7/cloudbank)|Rob Fatland|
+|||[Cloud computing Using AWS](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week7/cloud_computing_aws)|Rob Fatland|
+|||[Cloud computing (Tentative)](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week7)|TBD|
 |8|Fri, 02/28/20|[Containers for CPU and GPU computing](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week9)|Marty Kandes|
 |9|Fri, 03/6/20|[Visualization Using Python and Jupyter Notebooks](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week9)|Jeff Sale|
 |10|Fri, 03/13/20|[Machine Learning](https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week10/machine_learning)|Mai Nguyen|

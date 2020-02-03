@@ -1,5 +1,5 @@
-# HPC Training: Spring 2019
-## WEEK 4: Friday, April 26th, 2019
+# HPC Training: Spring 2020
+## WEEK 4: Friday, 02/07/2020
 
 ## TOPIC: An Introduction to (Shared Memory) Parallel Computing with OpenMP
 **PRESENTED BY:** Dr. Martin Kandes (mkandes@sdsc.edu)

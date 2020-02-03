@@ -5,7 +5,7 @@
 **PRESENTED BY:** Dr. Martin Kandes (mkandes@sdsc.edu)
 
 ## READING AND PRESENTATIONS:
-* [Training Presentation](./introduction-to-openmp.pdf)
+* [Introduction to OpenMP](./introduction-to-openmp.pdf)
 
 ## REFERENCES:
 * [An Introduction to Parallel Computing (LLNL)](https://computing.llnl.gov/tutorials/parallel_comp)

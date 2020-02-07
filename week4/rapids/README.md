@@ -2,8 +2,7 @@
 ## WEEK 4: 01/31/2020
 
 ## TOPIC:  NVIDIA RAPIDS Toolkit	
-* PRESENTED BY:  Marty Kandes, SDSC	
-3. GPU accelerated computing with CUDA Python	Abe Stern (NVIDIA)
+* PRESENTED BY:  Marty Kandes, SDSC	 (mkandes at sdsc.edu)
 
 ## READING AND PRESENTATIONS:
 

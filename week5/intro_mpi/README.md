@@ -2,7 +2,7 @@
 ## WEEK 5: 02/07/2020
 
 ## TOPIC: Intro to Parallel Computing: Message Passing Interface (MPI) 
-* PRESENTED BY:  [Mahi Tatineni, SDSC](https://hpc-students.sdsc.edu/instr_bios/mahidhar_tatineni.html)
+**PRESENTED BY:**  [Mahi Tatineni, SDSC](https://hpc-students.sdsc.edu/instr_bios/mahidhar_tatineni.html) (mahidhar at sdsc.edu)
 
 ## READING AND PRESENTATIONS:
 
@@ -26,7 +26,6 @@ Note: These are the same projects that you were asked to do for the OpenMP topic
 
 
 ### TASK 3:  Executing Hybrid Codes 
-*  NOTE: TO BE UPDATED for 2020 class: 
-* Write a small program to perform a matrix-vector operation and then parallelize the code with OpenMP. Solve the exercise invloving the Hilbert matrix described at the end of the presentation slides.
+* Write a small program to perform a matrix-vector operation and then parallelize the code with MPI. Solve the exercise invloving the Hilbert matrix described at the end of the presentation slides.
 
 

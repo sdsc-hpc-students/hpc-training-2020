@@ -7,12 +7,14 @@ This week we will have two Cloud Computing related presentations:
 ### Topic #1: Using Cloud Bank (Tentative)	 
 **Presented By:**  [TBD, SDSC]( )
 
-URL: https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week7/cloud_bank
+URL: https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week7/cloudbank
+and
+URL: https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week7/cloud_computing_aws
 
 **Description**
 
 
-### Topic #2: Cloud computing (AWS, OSG)	  
+### Topic #2: Cloud computing (Tentative)	  
 GPU accelerated computing with CUDA Python
 
 **Presented By:**  [TBD, SDSC]( )

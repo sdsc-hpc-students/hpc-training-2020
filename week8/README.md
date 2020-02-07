@@ -12,6 +12,7 @@ This training session provides an introduction to running Singularity containers
 ## READING AND PRESENTATIONS:
 
 **Presentation** [introduction-to-singularity.pdf](./introduction-to-singularity.pdf)
+**Related Training Material** https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week8/introduction-to-singularity
 
 
 ## WEEK 3 TASKS:

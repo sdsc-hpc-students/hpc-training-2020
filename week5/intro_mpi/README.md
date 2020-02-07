@@ -26,7 +26,6 @@ Note: These are the same projects that you were asked to do for the OpenMP topic
 
 
 ### TASK 3:  Executing Hybrid Codes 
-*  NOTE: TO BE UPDATED for 2020 class: 
-* Write a small program to perform a matrix-vector operation and then parallelize the code with OpenMP. Solve the exercise invloving the Hilbert matrix described at the end of the presentation slides.
+* Write a small program to perform a matrix-vector operation and then parallelize the code with MPI. Solve the exercise invloving the Hilbert matrix described at the end of the presentation slides.
 
 

@@ -6,7 +6,7 @@
 
 ### READING AND PRESENTATIONS:
 * [Comet 101](./Running-Jobs-on-Comet-04-11-2019.pdf)
-* Link to online interactive tutorial: 
+* Link to related webinar and training materials: 
 [https://www.sdsc.edu/education_and_training/training/201901_introduction_to_running_jobs_on_comet.html](https://www.sdsc.edu/education_and_training/training/201901_introduction_to_running_jobs_on_comet.html) 
 
 ### WEEK 2 TASKS:

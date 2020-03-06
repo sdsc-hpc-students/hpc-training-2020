@@ -1,7 +1,7 @@
 # SDSC HPC User Training
  
 ## Running Jupyter Notebooks On Comet (by Mary Thomas): 
-Learn how to run/edit a jupyter notebook on comet using Python notebooks 
+Learn how to run/edit a jupyter notebook on comet using Python notebooks. On Comet, it is preferred that notebooks be run on compute or interactive compute nodes. This tutorial will show you how to do this.
 
 ### Log onto comet.sdsc.edu  
 
@@ -50,7 +50,6 @@ On Comet, we support the use of Singularity containers [https://sylabs.io/singul
    * SIF™ (Singularity Image Format) is a single executable file based container image, cryptographically signed, auditable, secure, and easy to move using existing data mobility paradigms
 Load the singularity module that knows about jupyter notebooks.
 
-
 You can find a list of SDSC supported Comet images here:
 ```
 [comet-ln2:/share/apps/compute/singularity/images] pwd
@@ -70,8 +69,16 @@ drwxr-sr-x  2 mkandes use300 4096 Dec  4 13:03 theano
 drwxr-sr-x  2 mkandes use300 4096 Feb 28 11:22 ubuntu
 ```
 
-Update:  03/02/2020:: Use the newest version from the pytorch or tensorflow directories.
+Update:  03/02/2020:: Use the newest version from the pytorch or tensorflow directories. 
 
+To launch the singularity environment, load the singularity module and launch an image, then check that the software you need is available to you:
+```
+(base) [mthomas@comet-14-02:~] module load singularity
+(base) [mthomas@comet-14-02:~] singularity shell /share/apps/compute/singularity/images/pytorch/pytorch-v1.4.0-cpu-20200225.simg
+Singularity pytorch-v1.4.0-cpu-20200225.simg:~> which jupyter
+/opt/miniconda3/bin/jupyter
+```
+Note that the new environment can find the jupyter command, but that it is located 
 #### Install Jupyter Notebook material
 * If you don't have any notebooks installed on the system, clone this repository (developed by Bob Sinkovits):   [https://github.com/sinkovit/PythonSeries](https://github.com/sinkovit/PythonSeries)
 ```

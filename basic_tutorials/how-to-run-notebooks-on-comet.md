@@ -9,21 +9,14 @@ Learn how to run/edit a jupyter notebook on comet using Python notebooks
 ssh -l <username> comet.sdsc.edu
 ```
 
-### Install Jupyter Notebook material
-* If you don't have any notebooks installed on the system, clone this repository (developed by Bob Sinkovits):   [https://github.com/sinkovit/PythonSeries](https://github.com/sinkovit/PythonSeries)
-```
-git clone git@github.com:sinkovit/PythonSeries.git
-```
 
-### Obtain an interactive node:
-```
-srun --pty --nodes=1 --ntasks-per-node=24 -p debug -t 00:00:30 --wait 0 /bin/bash
-srun: job 24000544 queued and waiting for resources
-srun: job 24000544 has been allocated resources
-[mthomas@comet-18-29:~/hpctrain/python/PythonSeries] 
-```
-Wait for your node to be allocated. Once you have your interactive node (you will know that because your user prompt will change), you need to load in an environment that knows about Jupyter Notebooks. You can do this two ways:
-#### Install the Anaconda software -- see [https://www.anaconda.com/](https://www.anaconda.com/)
+### Configuring Jupyter Notebooks
+* You will need to load in an environment that knows about Jupyter Notebooks. You can do this two ways:
+   1 Install the Anaconda software so it is avalailable in your local environment
+   2 Launch a Singularity module -- ususally this is done when you obtain a compute node
+
+#### Install Anaconda 
+* see [https://www.anaconda.com/](https://www.anaconda.com/)
 * Anaconda is free, and easy to install: [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 * You will install it locally in your home directory, and you might need to add some configuration lines into your .bashrc file.
 * Here is an example of my .bashrc file:
@@ -43,6 +36,12 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+```
+
+Make sure that the software is installed on your node:
+```
+(base) [mthomas@comet-14-02:~] which jupyter
+~/miniconda3/bin/jupyter
 ```
 
 #### Launch an environment that already knows about Jupyter Notebooks.
@@ -72,6 +71,22 @@ drwxr-sr-x  2 mkandes use300 4096 Feb 28 11:22 ubuntu
 ```
 
 Update:  03/02/2020:: Use the newest version from the pytorch or tensorflow directories.
+
+#### Install Jupyter Notebook material
+* If you don't have any notebooks installed on the system, clone this repository (developed by Bob Sinkovits):   [https://github.com/sinkovit/PythonSeries](https://github.com/sinkovit/PythonSeries)
+```
+git clone git@github.com:sinkovit/PythonSeries.git
+```
+### Obtain an interactive node:
+```
+srun --pty --nodes=1 --ntasks-per-node=24 -p debug -t 00:00:30 --wait 0 /bin/bash
+srun: job 24000544 queued and waiting for resources
+srun: job 24000544 has been allocated resources
+[mthomas@comet-18-29:~/hpctrain/python/PythonSeries] 
+```
+Wait for your node to be allocated. Once you have your interactive node (you will know that because your user prompt will change).
+
+
 ```
 module load singularity
 singularity shell /share/apps/compute/singularity/images/sdsc_ubuntu_tf1.1_keras_R.img

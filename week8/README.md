@@ -18,15 +18,11 @@ This training session provides an introduction to running Singularity containers
 https://github.com/sdsc-hpc-students/hpc-training-2020/tree/master/week8/introduction-to-singularity
 
 
-## WEEK 3 TASKS:
-### TASK 1:  TBD
+## WEEK 8 TASKS:
+### TASK 1:
 
-```
-instructions here
-```
+Run the MPI-enabled MEEP example batch job in /share/apps/examples/meep.
 
-### TASK 2:  TBD
-```
-instructions here
-```
+### TASK 2:
 
+Run the GPU-acclerated TensorFlow example batch job in /share/apps/examples/tensorflow.

@@ -78,13 +78,16 @@ To launch the singularity environment, load the singularity module and launch an
 Singularity pytorch-v1.4.0-cpu-20200225.simg:~> which jupyter
 /opt/miniconda3/bin/jupyter
 ```
-Note that the new environment can find the jupyter command, but that it is located 
+Note that the new environment can find the jupyter command, but that it is located in a different directory.
+
 #### Install Jupyter Notebook material
 * If you don't have any notebooks installed on the system, clone this repository (developed by Bob Sinkovits):   [https://github.com/sinkovit/PythonSeries](https://github.com/sinkovit/PythonSeries)
 ```
 git clone git@github.com:sinkovit/PythonSeries.git
 ```
+
 ### Obtain an interactive node:
+
 ```
 srun --pty --nodes=1 --ntasks-per-node=24 -p debug -t 00:00:30 --wait 0 /bin/bash
 srun: job 24000544 queued and waiting for resources
@@ -93,13 +96,19 @@ srun: job 24000544 has been allocated resources
 ```
 Wait for your node to be allocated. Once you have your interactive node (you will know that because your user prompt will change).
 
+### Load the Singularity Environment
 
 ```
 module load singularity
 singularity shell /share/apps/compute/singularity/images/sdsc_ubuntu_tf1.1_keras_R.img
 ```
+Check to make sure that your jupyter environment is loaded properly:
+```
+Singularity pytorch-v1.4.0-cpu-20200225.simg:~> which jupyter
+/opt/miniconda3/bin/jupyter
+```
 
-Launch the Jupyter Notebook application. 
+### Launch the Jupyter Notebook application. 
 Note: this application will be running on comet, and you will be given a URL which will connect your local web browser the interactive comet session:
 ```
 ipython notebook --no-browser --ip=`/bin/hostname`

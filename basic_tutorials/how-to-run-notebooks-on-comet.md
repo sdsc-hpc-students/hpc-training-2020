@@ -12,8 +12,8 @@ ssh -l <username> comet.sdsc.edu
 
 ### Configuring Jupyter Notebooks
 * You will need to load in an environment that knows about Jupyter Notebooks. You can do this two ways:
-   1 Install the Anaconda software so it is avalailable in your local environment
-   2 Launch a Singularity module -- ususally this is done when you obtain a compute node
+   1. Install the Anaconda software so it is avalailable in your local environment
+   2. Launch a Singularity module -- ususally this is done when you obtain a compute node
 
 #### Install Anaconda 
 * see [https://www.anaconda.com/](https://www.anaconda.com/)

@@ -21,11 +21,23 @@ srun: job 24000544 queued and waiting for resources
 srun: job 24000544 has been allocated resources
 [mthomas@comet-18-29:~/hpctrain/python/PythonSeries] 
 ```
-Wait for your node to be allocated.
-Load the singularity module that knows about jupyter notebooks and get an interactive shell
+Wait for your node to be allocated. Once you have your interactive node (you will know that because your user prompt will change), you need to load in an environment that knows about Jupyter Notebooks. You can do this two ways:
+* Install the Anaconda software -- see []()
+* Launch an environment that already knows about Jupyter Notebooks.
+On Comet, we support the use of Singularity containers [https://sylabs.io/singularity/](https://sylabs.io/singularity/).
+   * From the website: "Singularity is a container platform. It allows you to create and run containers that package up pieces of software in a way that is portable and reproducible. You can build a container using Singularity on your laptop, and then run it on many of the largest HPC clusters in the world, local university or company clusters, a single server, in the cloud, or on a workstation down the hall. Your container is a single file, and you don’t have to worry about how to install all the software you need on each different operating system and system."
+   * SIF™ (Singularity Image Format) is a single executable file based container image, cryptographically signed, auditable, secure, and easy to move using existing data mobility paradigms
+Load the singularity module that knows about jupyter notebooks.
+
+
+You can find a list of SDSC supported Comet images here:
+```
+/share/apps/compute/singularity/images
+```
+Use the newest version from the pytorch or tensorflow directories.
 ```
 module load singularity
-singularity shell /share/apps/gpu/singularity/sdsc_ubuntu_tf1.1_keras_R.img
+singularity shell /share/apps/compute/singularity/images/sdsc_ubuntu_tf1.1_keras_R.img
 ```
 Check out the Readme.md file, it will explaing what is in the different notebooks.
 Launch the Jupyter Notebook application. 

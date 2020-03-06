@@ -5,7 +5,7 @@ Learn how to run/edit a jupyter notebook on comet using Python notebooks
 
 * Log onto comet.sdsc.edu  
 ```
-ssh -Y -l <username> comet.sdsc.edu
+ssh -l <username> comet.sdsc.edu
 ```
 
 * create a test directory, or ```cd``` into one you have already created
@@ -16,7 +16,7 @@ git clone git@github.com:sinkovit/PythonSeries.git
 
 Get an interactive node:
 ```
-srun --pty --nodes=1 --ntasks-per-node=24 -p compute -t 02:00:00 --wait 0 /bin/bash
+srun --pty --nodes=1 --ntasks-per-node=24 -p debug -t 00:00:30 --wait 0 /bin/bash
 srun: job 24000544 queued and waiting for resources
 srun: job 24000544 has been allocated resources
 [mthomas@comet-18-29:~/hpctrain/python/PythonSeries] 

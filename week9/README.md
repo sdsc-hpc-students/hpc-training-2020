@@ -23,16 +23,13 @@ In this lesson, we will briefly review data visualization principles and practic
 
 
 
-## WEEK 3 TASKS:
+## WEEK 9 TASKS:
 ### TASK 1:  TBD
 
 ```
-instructions here
+See the instructions contained in lessons 1-5
 ```
 
-### TASK 2:  TBD
-```
-instructions here
-```
+
 
 

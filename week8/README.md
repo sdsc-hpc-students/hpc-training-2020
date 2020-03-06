@@ -25,4 +25,4 @@ Run the MPI-enabled MEEP example batch job in /share/apps/examples/meep.
 
 ### TASK 2:
 
-Run the GPU-acclerated TensorFlow example batch job in /share/apps/examples/tensorflow.
+Run the GPU-accelerated TensorFlow example batch job in /share/apps/examples/tensorflow.

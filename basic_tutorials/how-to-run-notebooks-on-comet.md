@@ -1,7 +1,11 @@
 # SDSC HPC User Training
  
 ## Running Jupyter Notebooks On Comet (by Mary Thomas): 
-Learn how to run/edit a jupyter notebook on comet using Python notebooks. On Comet, it is preferred that notebooks be run on compute or interactive compute nodes. This tutorial will show you how to do this.
+This tutorial will show you how run launch a jupyter notebook on Comet using Python notebooks. On Comet, it is preferred that notebooks be run on compute or interactive compute nodes. There are two ways to do this:
+* Run the notebook from the command line using an interactive node.
+* Launch a notebook on a compute node using a batch script. 
+
+This tutorial will show you how run launch a jupyter notebook on an interactive Comet compute node. 
 
 ### Log onto comet.sdsc.edu  
 

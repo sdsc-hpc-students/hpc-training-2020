@@ -1,7 +1,9 @@
 # SDSC HPC User Training:  Spring 2020
 ## WEEK : 03/13/2020
 
-### Topic #2:  Deep Learning Using TensorFlow, PyTorch, and Horovod
+###. NOTE: these notes need to be updated.
+
+### Topic:  Deep Learning Using TensorFlow, PyTorch, and Horovod
 **Presented By:**  [Mahi Tatineni, SDSC](https://hpc-students.sdsc.edu/instr_bios/mahidhar_tatineni.html)
 
 
@@ -14,7 +16,7 @@ Try one of the MINST example from Mahidhar's presentation. See slide 42.
 First, create a directory in week10 to put the codes into (e.g. mach.learn)
 Copy the directory below into your ```mach.learn``` directory:
 ```
-cp -R /share/apps/examples/SCC/ML_Tensorflow .
+cp -R /share/apps/examples/tensorflow/ .
 ```
 You will see a jupyter notebook in the directory:  
 ```

@@ -8,7 +8,7 @@
 
 Source code and Instructions:
 
-* [TBD](TBD)
+* [https://education.sdsc.edu/training/interactive/201910_intro_to_deep_learning/index_w_tabs_notes.php](https://education.sdsc.edu/training/interactive/201910_intro_to_deep_learning/index_w_tabs_notes.php)
 
 
 ## WEEK 3 TASKS:
@@ -18,14 +18,3 @@ Source code and Instructions:
 instructions here
 ```
 
-### TASK 2:  TBD
-```
-instructions here
-```
-
-### TASK 3:  TBD
-```
-instructions here
-```
-
-`

@@ -1,19 +1,18 @@
 # SDSC HPC User Training:  Spring 2020
 **WEEK 3:** 01/24/2020
 
-## TOPIC: GPU Computing and Programming
-
-**Presented By:** [Andreas Goetz, SDSC](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) (agoetz  at  sdsc.edu)
+## TOPIC:  CUDA/GPU Computing
+**Presented By:** [Andreas Goetz, SDSC](https://hpc-students.sdsc.edu/instr_bios/andreas_goetz.html) (agoetz  at  sdsc.edu)
 
 ### READING AND PRESENTATIONS:
 
 Lecture slides:
-* [TBA](TBA)
+* [sdsc-scc-gpu-computing-2020-01-24.pdf](sdsc-scc-gpu-computing-2020-01-24.pdf)
 
 Example source code accompanying the lecture slides with instructions are in directory gpu-code-examples.
 
 
-## WEEK3 TASKS:
+## WEEK 3 TASKS:
 ### TASK 1:  Using GPU nodes  
     Clone this repository;
     `cd` into the `gpu-code-examples` directory

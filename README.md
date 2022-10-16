@@ -13,10 +13,10 @@ This year the sessions will be held on Fridays from 1:00pm to 3:00pm in the SDSC
 
 
 ## Course Preparation:<a name="prep">
-Check out our basic skill-building and preparation tutorials needed for this course:
+Check out the basic skill-building and preparation tutorials needed for this course:
 [https://github.com/sdsc-hpc-training/basic_skills](https://github.com/sdsc-hpc-training/basic_skills)
 
- [ [Back to Top](#top) ]
+
 
 ### 2020 HPC Training Schedule (Jan 31, 2020):<a name="sched">
 
